@@ -1,5 +1,5 @@
-# MiniGameWithPython
-Some mini game by **python2.7** and **SimpleGUICS2Pygame**
+# MiniGamesWithPython
+Some mini games by **python2.7** and **SimpleGUICS2Pygame**
 
 (But you **don't** need to install SimpleGUICS2Pygame)
 
@@ -8,8 +8,9 @@ Some mini game by **python2.7** and **SimpleGUICS2Pygame**
 - Stopwatch The Game
 - Pong
 
-## Startup
+## Start up
 It's very easy to run:
-```
+```bash
+$ cd MiniGamesWithPython
 $ python game_name.py
 ```
